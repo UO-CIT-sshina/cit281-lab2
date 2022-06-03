@@ -4,3 +4,7 @@
 Practice with gitignore
 
 Square functions
+
+Using JS and git
+
+I became familiar with a git workflow
